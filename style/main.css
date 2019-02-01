@@ -33,7 +33,7 @@ header, main, footer {
       padding: .5rem;
       max-width: 600px;
 }
-.list li a{
+a{
          text-decoration: none;
          display: inline;
          padding: 10px;
