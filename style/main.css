@@ -37,9 +37,9 @@ a{
          text-decoration: none;
          display: inline-flex;
          padding: 10px;
-         background-color:#1d71b1;
+         background-color:#702632;
          margin-top: 10px; 
-
+        color: #ebebec;
 }
 a:hover{
          font-size: 1.2em;
