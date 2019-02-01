@@ -46,6 +46,10 @@ a:hover{
          color: #fdffff;
 
 }
+footer p a{
+    color: #ebebec;
+}
+
 
 
 header, footer, footer a {
