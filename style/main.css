@@ -33,6 +33,19 @@ header, main, footer {
       padding: .5rem;
       max-width: 600px;
 }
+.list li a{
+         text-decoration: none;
+         display: inline;
+         padding: 10px;
+         background-color:#1d71b1; 
+
+}
+a:hover{
+         font-size: 1.2em;
+         color: #fdffff;
+
+}
+
 
 header, footer, footer a {
      text-align: center;
