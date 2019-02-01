@@ -35,7 +35,7 @@ header, main, footer {
 }
 a{
          text-decoration: none;
-         display: inline;
+         display: inline-flex;
          padding: 10px;
          background-color:#1d71b1;
          margin-top: 10px; 
